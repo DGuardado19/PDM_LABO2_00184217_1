@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margenuser">110dp</dimen>
+    <dimen name="chica">20dp</dimen>
+    <dimen name="media">40dp</dimen>
+</resources>
